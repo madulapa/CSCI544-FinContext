@@ -1,0 +1,100 @@
+{
+    "2023-01-31": {
+        "headline": "Apple Executives Violated Worker Rights, Labor Officials Say - Bloomberg Law",
+        "summary": "",
+        "time_diff": "datetime.timedelta(seconds=3534)"
+    },
+    "2023-01-30": {
+        "headline": "The Unbelievable Story Of The Pokémon Go Grandpa,The 74-Year-Old Cycling Around With 64 Devices Attached To His Bicycle",
+        "summary": "When one thinks of an average gamer, the image that comes to mind is not usually that of an elderly person.\n\nNor is it a person who plays with 64 devices at the same time.",
+        "time_diff": "datetime.timedelta(seconds=334)"
+    },
+    "2023-01-27": {
+        "headline": "Apple Unveils Original iPad On This Day In Market History",
+        "summary": "Benzinga takes a look back at a notable market-related moment that occurred on this date.\n\nWhat Happened? On this day in 2010, Apple, Inc. (NASDAQ: AAPL) CEO Steve Jobs unveiled the first iPad.",
+        "time_diff": "datetime.timedelta(seconds=1144)"
+    },
+    "2023-01-04": {
+        "headline": "PYPLs Outgoing Traffic From Prominent Merchants Stabilized, Analyst Says",
+        "summary": "\n",
+        "time_diff": "datetime.timedelta(seconds=3396)"
+    },
+    "2023-01-26": {
+        "headline": "Disney Aint Never Had A Friend Like Will Smith: Could Actor Return To This Movie Franchise?",
+        "summary": "The slap heard around the world happened at the 2022 Academy Awards and saw Will Smith receive a 10-year ban from the annual award show — and take a hit in his movie career, with multiple projects being put on hold.\n\nSmith could soon be added to a highly anticipated movie, according to a new, unconfirmed report.",
+        "time_diff": "datetime.timedelta(seconds=2075)"
+    },
+    "2023-01-25": {
+        "headline": "Top Wall Street Bets Mentions For Wednesday January 25,2023: MSFT, TSLA, NVDA, NFLX, AAPL, AMZN, GOOGL, BBBY, PLTR, INDA",
+        "summary": "",
+        "time_diff": "datetime.timedelta(seconds=3374)"
+    },
+    "2023-01-24": {
+        "headline": "Apple Builds On Privacy Commitment By Unveiling New Education And Awareness Efforts On Data Privacy Day",
+        "summary": "",
+        "time_diff": "datetime.timedelta(seconds=155)"
+    },
+    "2023-01-23": {
+        "headline": "Apple Leads The Market Higher After Recently Lagging: Here"s What"s Happening",
+        "summary": "Apple, Inc (NASDAQ: AAPL) was popping up over 1% on Monday, leading the S&amp;P 500 slightly higher.",
+        "time_diff": "datetime.timedelta(seconds=813)"
+    },
+    "2023-01-20": {
+        "headline": "U.S. Appeals Court Throws Out $308.5M Jury Verdict Against Apple For Allegedly Infringing A Patent Related To Digital Rights Management",
+        "summary": "",
+        "time_diff": "datetime.timedelta(seconds=4364)"
+    },
+    "2023-01-19": {
+        "headline": "Hearing Oxford Club Shorts Apple",
+        "summary": "",
+        "time_diff": "datetime.timedelta(seconds=556)"
+    },
+    "2023-01-18": {
+        "headline": "Spotify Teams Up With European Companies For Regulatory Action Against Apple",
+        "summary": "\n",
+        "time_diff": "datetime.timedelta(seconds=1076)"
+    },
+    "2023-01-17": {
+        "headline": "Starbucks Taps Online Ordering Market Via iOS, Android Devices By Extending Collaboration With DoorDash",
+        "summary": "\n",
+        "time_diff": "datetime.timedelta(seconds=413)"
+    },
+    "2023-01-13": {
+        "headline": "Top-Performing Hedge Fund In 2022 Has This Strategy To Thank: How Much Did It Make Last Year?",
+        "summary": "Macro trading is an investment strategy that takes into account both domestic and global macroeconomic trends.",
+        "time_diff": "datetime.timedelta(seconds=786)"
+    },
+    "2023-01-12": {
+        "headline": "Apple Expected To Launch Budget AirPods At $99 Next Year",
+        "summary": " ",
+        "time_diff": "datetime.timedelta(seconds=9475)"
+    },
+    "2023-01-11": {
+        "headline": "Viral TikTok Video Shows You How To Deliver Perfect Shots Of Moon On iPhone 14",
+        "summary": "Users who want to take shots of the Moon from their Apple Inc.&#39;s (NASDAQ: AAPL) iPhone 14 camera to the next level, can try this viral TikTok hack.\xa0",
+        "time_diff": "datetime.timedelta(seconds=1601)"
+    },
+    "2023-01-10": {
+        "headline": "Apple, Microsoft And Other Information Technology Stocks From Benzinga"s Most Accurate Analysts", "summary": "Wall Street analysts make new stock picks on a daily basis. Unfortunately for investors, not all analysts have particularly impressive track records at predicting market movements. Even when it comes to one single stock, analyst ratings and price targets can vary widely, leaving investors confused about which analyst&#39;s opinion to trust.", "time_diff": "datetime.timedelta(seconds=223)"
+    },
+    "2023-01-09": {
+        "headline": "This Day In Market History: Apple Introduces The iPhone",
+        "summary": "Each day, Benzinga takes a look back at a notable market-related moment that happened on this date.",
+        "time_diff": "datetime.timedelta(seconds=840)"
+    },
+    "2023-01-06": {
+        "headline": "Apple Unusual Options Activity For January 06",
+        "summary": "A whale with a lot of money to spend has taken a noticeably bearish stance on Apple.\n\nLooking at options history for Apple (NASDAQ:AAPL) we detected 38 strange trades.",
+        "time_diff": "datetime.timedelta(seconds=1128)"
+    },
+    "2023-01-05": {
+        "headline": "The Most Anticipated Mobile Games Of 2023: 5 Titles To Keep An Eye On",
+        "summary": "Despite being underestimated by some gamers, it’s undeniable that the mobile gaming trend is growing by leaps and bounds year after year.\nMobile games provide a form of light entertainment, allowing them to be played during the day and even in the middle of the daily routine.",
+        "time_diff": "datetime.timedelta(seconds=2532)"
+    },
+    "2023-01-03": {
+        "headline": "Apple Tells Suppliers To Build Fewer Components For AirPods, Apple Watch And MacBook As Shares Sink To 52-Week Low: What You Need To Know",
+        "summary": "Apple Inc (NASDAQ: AAPL) shares slid\xa0into the end of 2022 on supply chain concerns.",
+        "time_diff": "datetime.timedelta(seconds=116)"
+    }
+}

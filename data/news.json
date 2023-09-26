@@ -1,0 +1,235 @@
+{
+    "news": [
+        {
+            "author": "Charles Gross",
+            "content": "",
+            "created_at": "2023-01-31T22: 06: 51Z",
+            "headline": "Top Wall Street Bets Mentions For Tuesday January 31,2023: AMD, SNAP, TSLA, META, CVNA, NVDA, CAT, AAPL, AMZN, XOM",
+            "id": 30653968,
+            "images": [],
+            "source": "benzinga",
+            "summary": "",
+            "symbols": [
+                "AAPL",
+                "AMD",
+                "AMZN",
+                "CAT",
+                "CVNA",
+                "META",
+                "NVDA",
+                "SNAP",
+                "TSLA",
+                "XOM"
+            ],
+            "updated_at": "2023-01-31T22: 06: 52Z",
+            "url": "https: //www.benzinga.com/news/23/01/30653968/top-wall-street-bets-mentions-for-tuesday-january-31-2023-amd-snap-tsla-meta-cvna-nvda-cat-aapl-amzn"
+        },
+        {
+            "author": "Happy Mohamed",
+            "content": "",
+            "created_at": "2023-01-31T17:14:38Z",
+            "headline": "Apple Analyst Ming-Chi Kuo Tweets "The Highest-End New iPhone 15 (15 Pro Max Or 15 Ultra) In 2H23 Will Be Equipped With A Periscope, And The Market Expects That The Periscope Camera Will Be Adopted With More iPhone Models And Key To Drive Demand..."",
+            "id": 30648044,
+            "images": [],
+            "source": "benzinga",
+            "summary": "",
+            "symbols": [
+                "AAPL"
+            ],
+            "updated_at": "2023-01-31T17:14:39Z",
+            "url": "https://www.benzinga.com/news/23/01/30648044/apple-analyst-ming-chi-kuo-tweets-the-highest-end-new-iphone-15-15-pro-max-or-15-ultra-in-2h23-will"
+        },
+        {
+            "author": "Happy Mohamed",
+            "content": "",
+            "created_at": "2023-01-31T16:58:54Z",
+            "headline": ""Apple Executives Violated Worker Rights, Labor Officials Say" - Bloomberg Law",
+            "id": 30647678,
+            "images": [],
+            "source": "benzinga",
+            "summary": "",
+            "symbols": [
+                "AAPL"
+            ],
+            "updated_at": "2023-01-31T16:58:55Z",
+            "url": "https://www.benzinga.com/news/23/01/30647678/apple-executives-violated-worker-rights-labor-officials-say-bloomberg-law"
+        },
+        {
+            "author": "Natan Ponieman",
+            "content": "",
+            "created_at": "2023-01-31T14:13:54Z",
+            "headline": "Most Important Week Of Earnings Season Is Here — Will S&P 500 Companies Continue Beating Wall Street Estimates?",
+            "id": 30640585,
+            "images": [
+                {
+                    "size": "large",
+                    "url": "https://cdn.benzinga.com/files/imagecache/2048x1536xUP/images/story/2023/01/31/shutterstock_2147830361.jpg"
+                },
+                {
+                    "size": "small",
+                    "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/01/31/shutterstock_2147830361.jpg"
+                },
+                {
+                    "size": "thumb",
+                    "url": "https://cdn.benzinga.com/files/imagecache/250x187xUP/images/story/2023/01/31/shutterstock_2147830361.jpg"
+                }
+            ],
+            "source": "benzinga",
+            "summary": "Earnings season is in full swing, with 35% of companies in the S&amp;P 500 reporting this week.\n\nCompany performance through the fourth quarter of 2022 will lend a clearer view into the general state of the U.S. economy after an almost full year of Fed interest rate hikes.",
+            "symbols": [
+                "AAPL",
+                "GM",
+                "GOOG",
+                "INTC",
+                "MCD",
+                "META",
+                "MPC",
+                "PFE",
+                "PSX",
+                "SPOT",
+                "TSLA",
+                "UPS",
+                "XOM"
+            ],
+            "updated_at": "2023-01-31T14:13:55Z",
+            "url": "https://www.benzinga.com/news/earnings/23/01/30640585/most-important-week-of-earnings-season-is-here-will-s-p-500-companies-continue-beating-wall-street-"
+        },
+        {
+            "author": "Ananya Gairola",
+            "content": "",
+            "created_at": "2023-01-31T13:00:54Z",
+            "headline": "Sony Scales Back PlayStation VR2 Output After Disappointing Pre-Order Numbers",
+            "id": 30640240,
+            "images": [
+                {
+                    "size": "large",
+                    "url": "https://cdn.benzinga.com/files/imagecache/2048x1536xUP/images/story/2023/Sony_Playstation_VR_Photo_by_Barone_Firenze_on_Shutterstock.jpeg"
+                },
+                {
+                    "size": "small",
+                    "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Sony_Playstation_VR_Photo_by_Barone_Firenze_on_Shutterstock.jpeg"
+                },
+                {
+                    "size": "thumb",
+                    "url": "https://cdn.benzinga.com/files/imagecache/250x187xUP/images/story/2023/Sony_Playstation_VR_Photo_by_Barone_Firenze_on_Shutterstock.jpeg"
+                }
+            ],
+            "source": "benzinga",
+            "summary": " ",
+            "symbols": [
+                "AAPL",
+                "META",
+                "MSFT",
+                "SONY"
+            ],
+            "updated_at": "2023-01-31T13:00:55Z",
+            "url": "https://www.benzinga.com/news/23/01/30640240/sony-scales-back-playstation-vr2-output-after-disappointing-pre-order-numbers"
+        },
+        {
+            "author": "Ananya Gairola",
+            "content": "",
+            "created_at": "2023-01-31T12:16:53Z",
+            "headline": "Google Fi User Data May Have Been Compromised In T-Mobile Breach",
+            "id": 30639311,
+            "images": [
+                {
+                    "size": "large",
+                    "url": "https://cdn.benzinga.com/files/imagecache/2048x1536xUP/images/story/2023/Google_Fi_Photo_by_J.K2507_on_Shutterstock.jpeg"
+                },
+                {
+                    "size": "small",
+                    "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Google_Fi_Photo_by_J.K2507_on_Shutterstock.jpeg"
+                },
+                {
+                    "size": "thumb",
+                    "url": "https://cdn.benzinga.com/files/imagecache/250x187xUP/images/story/2023/Google_Fi_Photo_by_J.K2507_on_Shutterstock.jpeg"
+                }
+            ],
+            "source": "benzinga",
+            "summary": " ",
+            "symbols": [
+                "AAPL",
+                "GOOG",
+                "GOOGL",
+                "TMUS"
+            ],
+            "updated_at": "2023-01-31T12:16:54Z",
+            "url": "https://www.benzinga.com/news/23/01/30639311/google-fi-user-data-may-have-been-compromised-in-t-mobile-breach"
+        },
+        {
+            "author": "Lisa Levin",
+            "content": "",
+            "created_at": "2023-01-31T10:48:42Z",
+            "headline": "Volatility In Markets Increases Sharply Ahead Of Big Earnings",
+            "id": 30636531,
+            "images": [
+                {
+                    "size": "large",
+                    "url": "https://cdn.benzinga.com/files/imagecache/2048x1536xUP/images/story/2023/01/31/image31.jpeg"
+                },
+                {
+                    "size": "small",
+                    "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/01/31/image31.jpeg"
+                },
+                {
+                    "size": "thumb",
+                    "url": "https://cdn.benzinga.com/files/imagecache/250x187xUP/images/story/2023/01/31/image31.jpeg"
+                }
+            ],
+            "source": "benzinga",
+            "summary": "US stocks closed lower on Monday amid declines in technology and other megacap stocks.",
+            "symbols": [
+                "AAPL",
+                "AMZN",
+                "GOOGL",
+                "TSLA"
+            ],
+            "updated_at": "2023-01-31T10:48:43Z",
+            "url": "https://www.benzinga.com/news/earnings/23/01/30636531/volatility-in-markets-increases-sharply-ahead-of-big-earnings"
+        },
+        {
+            "author": "Shivdeep Dhaliwal",
+            "content": "",
+            "created_at": "2023-01-31T05:00:25Z",
+            "headline": "Apple Executives Reportedly Imposed Rules On Employees Deemed Illegal By Federal Agency",
+            "id": 30635101,
+            "images": [
+                {
+                    "size": "large",
+                    "url": "https://cdn.benzinga.com/files/imagecache/2048x1536xUP/images/story/2023/01/31/shutterstock_1757133131.jpg"
+                },
+                {
+                    "size": "small",
+                    "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/01/31/shutterstock_1757133131.jpg"
+                },
+                {
+                    "size": "thumb",
+                    "url": "https://cdn.benzinga.com/files/imagecache/250x187xUP/images/story/2023/01/31/shutterstock_1757133131.jpg"
+                }
+            ],
+            "source": "benzinga",
+            "summary": "Apple Inc\xa0(NASDAQ:\xa0AAPL) executives made comments and imposed policies on staff that were illegal, according to prosecutors from U.S. National Labor Relations Board.",
+            "symbols": [
+                "AAPL"
+            ],
+            "updated_at": "2023-01-31T05:02:22Z",
+            "url": "https://www.benzinga.com/government/23/01/30635101/apple-executives-reportedly-imposed-rules-on-employees-deemed-illegal-by-federal-agency"
+        },
+        {
+            "author": "Ananya Gairola",
+            "content": "",
+            "created_at": "2023-01-31T04:40:33Z",
+            "headline": "Apple Music Puts Spotlight On Rihanna Road To Halftime Ahead Of Super Bowl",
+            "id": 30635172,
+            "images": [],
+            "source": "benzinga",
+            "summary": "",
+            "symbols": [
+                "AAPL"
+            ],
+            "updated_at": "2023-01-31T02: 28: 40Z",
+            "url": "https:/www.benzinga.com/news/23/01/30621831/elon-musk-lists-8-useful-iphone-notes-app-features-you-may-not-know-about"
+        }
+    ],
+    "next_page_token": "MTY3NTEzMjEyMDAwMDAwMDAwMHwzMDYyMTgzMQ=="
+}
