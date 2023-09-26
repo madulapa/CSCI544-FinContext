@@ -1,0 +1,8 @@
+requests
+csv
+bs4
+torch
+transformers
+pandas
+numpy
+ta-lib
